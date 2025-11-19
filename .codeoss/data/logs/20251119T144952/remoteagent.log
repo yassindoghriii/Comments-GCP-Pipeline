@@ -1,0 +1,26 @@
+2025-11-19 14:49:52.557 [info] 
+
+
+
+
+2025-11-19 14:49:52.574 [info] Extension host agent started.
+2025-11-19 14:49:52.602 [info] Started initializing default profile extensions in extensions installation folder. file:///home/doghriyassine0/.codeoss/extensions
+2025-11-19 14:49:52.617 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/doghriyassine0/.codeoss/extensions
+2025-11-19 14:49:56.810 [info] [127.0.0.1][a0056783][ManagementConnection] New connection established.
+2025-11-19 14:49:56.826 [info] [127.0.0.1][6f5790ae][ExtensionHostConnection] New connection established.
+2025-11-19 14:49:59.530 [info] [127.0.0.1][6f5790ae][ExtensionHostConnection] <1664> Launched Extension Host Process.
+2025-11-19 14:51:06.926 [info] [127.0.0.1][a0056783][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-19 14:51:09.542 [info] [127.0.0.1][6f5790ae][ExtensionHostConnection] <1664> Extension Host Process exited with code: 0, signal: null.
+2025-11-19 14:51:12.060 [info] [127.0.0.1][eead46ad][ManagementConnection] New connection established.
+2025-11-19 14:51:12.091 [info] [127.0.0.1][319c890d][ExtensionHostConnection] New connection established.
+2025-11-19 14:51:12.155 [info] [127.0.0.1][319c890d][ExtensionHostConnection] <2143> Launched Extension Host Process.
+2025-11-19 14:53:01.010 [info] [127.0.0.1][eead46ad][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-19 14:53:01.559 [info] [127.0.0.1][319c890d][ExtensionHostConnection] <2143> Extension Host Process exited with code: 0, signal: null.
+2025-11-19 14:53:05.064 [info] [127.0.0.1][9561a90d][ManagementConnection] New connection established.
+2025-11-19 14:53:05.072 [info] [127.0.0.1][f0eee27b][ExtensionHostConnection] New connection established.
+2025-11-19 14:53:05.084 [info] [127.0.0.1][f0eee27b][ExtensionHostConnection] <2472> Launched Extension Host Process.
+2025-11-19 15:08:15.270 [info] [127.0.0.1][9561a90d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-11-19 15:08:15.425 [info] [127.0.0.1][f0eee27b][ExtensionHostConnection] <2472> Extension Host Process exited with code: 0, signal: null.
+2025-11-19 15:10:48.783 [info] [127.0.0.1][598188ea][ManagementConnection] New connection established.
+2025-11-19 15:10:48.792 [info] [127.0.0.1][bb6063d4][ExtensionHostConnection] New connection established.
+2025-11-19 15:10:48.804 [info] [127.0.0.1][bb6063d4][ExtensionHostConnection] <3080> Launched Extension Host Process.

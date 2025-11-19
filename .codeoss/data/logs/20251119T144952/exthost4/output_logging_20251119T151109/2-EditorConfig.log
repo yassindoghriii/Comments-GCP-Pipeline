@@ -1,0 +1,58 @@
+Initializing document watcher...
+Document watcher initialized
+doghriyassine0/yt-comments-gcp/infra/envs/dev/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/main.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/envs/dev/outputs.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/outputs.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/yt-comments-gcp/infra/providers.tf: {}
+doghriyassine0/yt-comments-gcp/infra/providers.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/providers.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/providers.tf: {}
+doghriyassine0/yt-comments-gcp/infra/providers.tf: {}
+doghriyassine0/yt-comments-gcp/infra/providers.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/bigquery/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/bigquery/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/bigquery/main.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/modules/bigquery/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/composer/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/composer/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/composer/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/composer/main.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/modules/iam/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/iam/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/iam/main.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/modules/iam/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/pubsub/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/pubsub/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/pubsub/main.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/modules/pubsub/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/storage/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/modules/storage/main.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/providers.tf: {}
+doghriyassine0/yt-comments-gcp/infra/backend.tf: {}
+doghriyassine0/yt-comments-gcp/infra/backend.tf: {}
+doghriyassine0/yt-comments-gcp/infra/backend.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/main.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/.vscode/settings.json: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/infra/envs/dev/variables.tf: {}
+doghriyassine0/yt-comments-gcp/.gitignore: {}
+doghriyassine0/yt-comments-gcp/.gitignore: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/.gitignore: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/.gitignore: {}
+doghriyassine0/.vscode/settings.json: Using EditorConfig core...
+doghriyassine0/yt-comments-gcp/.gitignore: {}
+doghriyassine0/yt-comments-gcp/.gitignore: {}

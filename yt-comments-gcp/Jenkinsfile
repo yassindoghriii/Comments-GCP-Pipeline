@@ -29,7 +29,7 @@ pipeline {
                         gcloud auth list
 
                         echo "Running Ansible playbook..."
-                        ansible-playbook -i ansible/inventory ansible/playbooks/run_pretrained_sentiment.yml
+                        ansible-playbook -i yt-comments-gcp/ansible/inventory yt-comments-gcp/ansible/playbooks/run_pretrained_sentiment.yml
                         '''
                     }
                 }
